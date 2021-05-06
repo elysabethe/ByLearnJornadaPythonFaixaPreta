@@ -1,2 +1,2 @@
 # ByLearnJornadaPythonFaixaPreta
-Eu fiz uma calculadora
+Eu fiz uma calculadora aprendi a usar funções
